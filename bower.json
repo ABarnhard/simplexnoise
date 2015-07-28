@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "homepage": "https://github.com/ABarnhard/simplexnoise",
   "authors": [
-    "Adam Barnhard <adam.barnhard@digitalreasoning.com>"
+    "Adam Barnhard <admbarn@gmail.com>"
   ],
   "description": "Simple lib for generating simplex noise",
   "main": "dist/simplexnoise.js",

@@ -1,0 +1,28 @@
+{
+  "name": "simplexnoise",
+  "version": "0.0.1",
+  "description": "A simple library to create Simplex Noise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ABarnhard/simplexnoise"
+  },
+  "keywords": [
+    "simplex",
+    "random",
+    "noise"
+  ],
+  "author": "Adam Barnhard <admbarn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ABarnhard/simplexnoise/issues"
+  },
+  "homepage": "https://github.com/ABarnhard/simplexnoise",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-uglify": "^1.2.0"
+  }
+}
