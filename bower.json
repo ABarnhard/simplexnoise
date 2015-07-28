@@ -1,0 +1,28 @@
+{
+  "name": "simplexnoise",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ABarnhard/simplexnoise",
+  "authors": [
+    "Adam Barnhard <adam.barnhard@digitalreasoning.com>"
+  ],
+  "description": "Simple lib for generating simplex noise",
+  "main": "dist/simplexnoise.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "Simplex",
+    "Random",
+    "Noise"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
